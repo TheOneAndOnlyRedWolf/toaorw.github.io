@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .box {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(227, 143, 186);
+    color: white;
+    text-align: center;
+    line-height: 150px;
+    cursor: pointer;
+    font-family: sans-serif;
+  }
+</style>
+</head>
+<body>
+    <img src="C:\everythingelse\coding\para sa gsci\anicell.jpg">
+
+    <div class="box" onclick="this.style.display='none'">Brain of da cell</div>
+
+</body>
+</html>
