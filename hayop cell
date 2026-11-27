@@ -15,7 +15,7 @@
 </style>
 </head>
 <body>
-    <img src="C:\everythingelse\coding\para sa gsci\anicell.jpg">
+    <img src="anicell.jpg">
 
     <div class="box" onclick="this.style.display='none'">Brain of da cell</div>
 
